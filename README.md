@@ -1,6 +1,6 @@
 # Cloud Native AI Agents
 
-In this repo we will explore developing a framework which is cloud native and helps developers develop Autonomous AI Agents run locally and deploy on the cloud and edge.
+In this repo we will explore developing a agentic framework which is cloud native from start and helps developers develop Autonomous AI Agents locally and deploy on the cloud and edge.
 
 [Agentic AI Architecture: A Deep Dive](https://markovate.com/blog/agentic-ai-architecture/)
 
